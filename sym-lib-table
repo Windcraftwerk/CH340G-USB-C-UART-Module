@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XT9S20ANA12M")(type "KiCad")(uri "C:/Users/Fogelix/OneDrive/__6. Master/KiCad/Module/LIB_XT9S20ANA12M/XT9S20ANA12M/KiCad/XT9S20ANA12M.kicad_sym")(options "")(descr ""))
+  (lib (name "Fuse-MF-R050")(type "KiCad")(uri "C:/Users/Fogelix/OneDrive/__6. Master/KiCad/Module/LIB_MF-R050/MF-R050/KiCad/MF-R050.kicad_sym")(options "")(descr ""))
+  (lib (name "Zenerdiode_1N5822")(type "KiCad")(uri "C:/Users/Fogelix/OneDrive/__6. Master/KiCad/Module/LIB_1N5822/1N5822/KiCad/1N5822.kicad_sym")(options "")(descr ""))
+)
