@@ -1,5 +1,5 @@
 # CH340G-USB-C-UART-Module
-USB type C UART Breakout Board with THT Components using the CH340G in KiCad
+USB type C UART Breakout Board with THT Components for easy home soldering using the CH340G in KiCad for practicing purposes.
 
 ![Schematic](CH340G%20USB-C%20UART%20Module%20Schematic.png)
 ![Layout Top](CH340G%20USB-C%20UART%20Module%20Layout%20Top%20Layer.png)
